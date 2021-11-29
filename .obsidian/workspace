@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdesign/Project - Twitter Clone Angular.md",
-            "mode": "source"
+            "file": "AI/Project - Voice assistant using real voice.md",
+            "mode": "preview"
           }
         },
         "group": "fa8870c1f530e849"
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Webdesign/Project - Twitter Clone Angular.md",
+            "file": "AI/Project - Voice assistant using real voice.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Webdesign/Project - Twitter Clone Angular.md",
+                "file": "AI/Project - Voice assistant using real voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,9 @@
   },
   "active": "27bbff2f5ed25270",
   "lastOpenFiles": [
-    "Webdesign/Project - Twitter Clone Angular.md",
     "AI/Project - Voice assistant using real voice.md",
     "AI/AI.md",
+    "Webdesign/Project - Twitter Clone Angular.md",
     "Webdesign/Project - Website for human rights issues.md",
     "DATA/Data.md",
     "Webdesign/Webdesign.md",
