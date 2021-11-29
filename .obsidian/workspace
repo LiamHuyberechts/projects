@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "e9c7709850593dbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bbff2f5ed25270",
+        "type": "leaf",
+        "dimension": 62.755102040816325,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Webdesign/Project - Twitter Clone Angular.md",
+            "mode": "source"
+          }
+        },
+        "group": "fa8870c1f530e849"
+      },
+      {
+        "id": "ac93be8fd2abdcec",
+        "type": "leaf",
+        "dimension": 37.244897959183675,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Webdesign/Project - Twitter Clone Angular.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fa8870c1f530e849"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28072a47d44c0842",
+    "type": "split",
+    "children": [
+      {
+        "id": "343aa587f85b81eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db1fff1d199be04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1abcdeacfe06fb23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d6710f738493bc5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e8e08c8b1f8202e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4257efe37bf841b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Webdesign/Project - Twitter Clone Angular.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27bbff2f5ed25270",
+  "lastOpenFiles": [
+    "Webdesign/Project - Twitter Clone Angular.md",
+    "AI/Project - Voice assistant using real voice.md",
+    "AI/AI.md",
+    "Webdesign/Project - Website for human rights issues.md",
+    "DATA/Data.md",
+    "Webdesign/Webdesign.md",
+    "AI/Project - Creating a way to scan room and make it 3d.md",
+    "IOT/IOT.md",
+    "IOT/Project - Drone tracking.md",
+    "Projects.md"
+  ]
+}
